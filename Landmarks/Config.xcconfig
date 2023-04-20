@@ -1,0 +1,10 @@
+//
+//  Config.xcconfig
+//  Landmarks
+//
+//  Created by Teddy Rogers on 17/11/2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+SECRET_KEY = this.is.my.secret
